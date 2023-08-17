@@ -1,0 +1,8 @@
+# Visual Studio temp
+.vs/
+
+# Compiled binaries
+x64/
+
+# Project locals
+*.user
